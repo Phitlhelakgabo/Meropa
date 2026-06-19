@@ -56,11 +56,20 @@ The website was designed with the user in mind:
 - Improve design with advanced CSS
 - Add online booking functionality
 - Include more interactive features
+##  Updates / Improvements
+The following improvements were made during development:
 
+- Added external CSS for styling  
+- Implemented responsive design using media queries  
+- Included semantic HTML elements for better structure  
+- Added JavaScript for interactivity and form validation  
+- Improved navigation and layout consistency  
+- Added footer to all pages  
+- Included screenshots for documentation  
 
 Student Name:Phitlhela Kgabo
 Course: WEDE5020
-Date: 29 MAY 2026
+Date: 19 june 2026
 
 
 ## Notes
