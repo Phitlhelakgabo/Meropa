@@ -2,6 +2,10 @@
 
 my website being live https://phitlhelakgabo.github.io/Meropa/ 
 
+website opened in a mobile device
+<img width="713" height="620" alt="iphone 14 pro screenshot" src="https://github.com/user-attachments/assets/9bf8df7c-9142-40a3-a1f7-e8c690cdb6d1" />
+
+
 ##  Project Overview
 This project is a multi-page website developed for Meropa Casino and Entertainment World. The purpose of the website is to provide information about casino gaming, entertainment, and services while offering a user-friendly experience.
 
