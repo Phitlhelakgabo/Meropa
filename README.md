@@ -50,6 +50,21 @@ The website was designed with the user in mind:
 - Readable text and clear headings
 - Accessible images with alt text
 
+- ##  Screenshots
+The following screenshots are included in the report:
+- Home Page
+  <img width="1356" height="662" alt="screenshot of home page" src="https://github.com/user-attachments/assets/4a7bcdc2-017e-477a-8ec1-020352b5668f" />
+  
+- About Page
+  <img width="1355" height="634" alt="screen shot of About " src="https://github.com/user-attachments/assets/d813e510-cbec-44e2-b282-4d8efd464318" />
+ 
+- Gaming Page
+- <img width="1106" height="615" alt="screen shot of Gaming html" src="https://github.com/user-attachments/assets/fe3f9aed-4177-4715-a8c4-9e8bf116ea19" />
+ 
+- Contact Page
+- <img width="1352" height="593" alt="screen shot of contact" src="https://github.com/user-attachments/assets/a91cc945-1ce6-4280-8a88-c1ef5139d67f" />
+
+
 
 ##  Future Improvements
 - Add animations using JavaScript
