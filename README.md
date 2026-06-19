@@ -1,5 +1,7 @@
 # Meropa Casino Website Project
 
+my website being live https://phitlhelakgabo.github.io/Meropa/ 
+
 ##  Project Overview
 This project is a multi-page website developed for Meropa Casino and Entertainment World. The purpose of the website is to provide information about casino gaming, entertainment, and services while offering a user-friendly experience.
 
